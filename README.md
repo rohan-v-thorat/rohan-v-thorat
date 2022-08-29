@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m Rohan Thorat
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently learning Reinforcement Learning
+- 👀 I’m interested in exploring into Science  
+- 🌱 I’m currently learning and working on Reinforcement Learning
 - 📫 How to reach me : rohanthorat2@gmail.com
 
 <!---
