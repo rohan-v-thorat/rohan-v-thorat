@@ -13,7 +13,7 @@
 ### 🧐 More About Me:
 - 👀 I’m interested in exploring Science  
 - 🌱 I’m currently learning and working on Reinforcement Learning
-- 📫 How to reach me : rohanthorat2@gmail.com
+- 📫 You can contact me at : rohanthorat2@gmail.com
 
 <!---
 rohanthor/rohanthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
