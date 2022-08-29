@@ -1,3 +1,6 @@
+<img src="./Rl_agent.png">
+
+
 - 👋 Hi, I’m Rohan Thorat
 - 👀 I’m interested in Python coding
 - 🌱 I’m currently learning Reinforcement Learning
