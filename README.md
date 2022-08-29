@@ -6,7 +6,7 @@
   </a>
 </h6>
 
-<h3 align="Justify"> 🤘 I'm an Engineering Student(M.tech) from IIT Delhi.</h3>
+<h3 align="Justify"> 🤘 I'm an M.Tech Engineering Student from IIT Delhi.</h3>
 
 ### 🧐 More About Me:
 - 👀 I’m interested in exploring Science  
