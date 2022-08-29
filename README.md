@@ -1,4 +1,6 @@
-<img align="center" src="./Rl_agent.png">
+<p align="center">
+  <img src="./Rl_agent.png">
+</p>
 
 <h6 align="center">
   <a href="https://git.io/typing-svg">
