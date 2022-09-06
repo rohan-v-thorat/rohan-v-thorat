@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Rl_agent.png">
+  <img src="./env_agent.gif">
 </p>
 
 <h6 align="center">
