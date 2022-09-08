@@ -14,7 +14,8 @@
 - 👀 I’m interested in exploring Science  
 - 🌱 I’m currently learning and working on Reinforcement Learning
 
+
 <!---
-rohanthor/rohanthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## Publications 
+If you find this work useful in the academic context, please consider to cite one of the following papers:
 --->
