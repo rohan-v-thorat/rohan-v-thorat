@@ -14,6 +14,7 @@
 - 👀 I’m interested in exploring Science  
 - 🌱 I’m currently learning and working on Reinforcement Learning
 
+      Coding language : Python | MATLAB
 
 <!---
 ## Publications 
