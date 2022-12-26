@@ -16,6 +16,7 @@
 
       Coding language : Python | MATLAB | R | GNU Octave
 
+![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
 <!---
 ## Publications 
 If you find this work useful in the academic context, please consider to cite one of the following papers:
