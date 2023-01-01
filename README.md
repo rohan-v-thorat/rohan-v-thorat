@@ -15,6 +15,13 @@
 - 🌱 I’m currently learning and working on Reinforcement Learning
 
       Coding language : Python | MATLAB | R | GNU Octave
+      
+      
+<div align="center" style="display:flex;justify-content:space-between;align:center;"> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rohanthor&theme=tokyonight&show_icons=true&count_private=true)
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
 <!---
