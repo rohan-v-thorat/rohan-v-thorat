@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=040927&size=30&center=true&vCenter=true&height=35&lines=Hi+There+%F0%9F%91%8B;I+am+Rohan+Thorat+;Nice+to+see+you+here+!++%F0%9F%99%82">
   </a>
 </h6>
-
+![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
 <h3 align="Justify"> 🤘 I'm an M.Tech Engineering Student of IIT Delhi.</h3>
 
 ### 🧐 More About Me:
@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/Kung_fu_rohan) 
 
 
-![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
+
 <!---
 ## Publications 
 If you find this work useful in the academic context, please consider to cite one of the following papers:
