@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
+
 <p align="center">
   <img src="./env_agent.gif">
 </p>!
@@ -7,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=040927&size=30&center=true&vCenter=true&height=35&lines=Hi+There+%F0%9F%91%8B;I+am+Rohan+Thorat+;Nice+to+see+you+here+!++%F0%9F%99%82">
   </a>
 </h6>
-![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
+
 <h3 align="Justify"> 🤘 I'm an M.Tech Engineering Student of IIT Delhi.</h3>
 
 ### 🧐 More About Me:
