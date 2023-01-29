@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./env_agent.gif">
-</p>!
+</p>
 
 <h6 align="center">
   <a href="https://git.io/typing-svg">
