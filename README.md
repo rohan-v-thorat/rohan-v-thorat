@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=rohanthor&color=green) 
+![](https://komarev.com/ghpvc/?username=rohan-v-thorat&color=green) 
 
 <p align="center">
   <img src="./env_agent.gif">
@@ -21,7 +21,7 @@
       
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rohanthor&theme=tokyonight&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rohan-v-thorat&theme=tokyonight&show_icons=true&count_private=true)
 
 </div>
 
