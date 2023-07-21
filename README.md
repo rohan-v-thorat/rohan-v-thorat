@@ -14,7 +14,7 @@
 
 ### 🧐 More About Me:
 - 👀 I’m interested in exploring Science  
-- 🌱 I’m currently learning and working on Reinforcement Learning
+- 🌱 My research domain is 'Control and System Identification'.
 
       Coding language : Python | MATLAB | R | GNU Octave
       
