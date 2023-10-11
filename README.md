@@ -11,7 +11,7 @@
 </h6>
 
 <h3 align="Justify"> 🤘 I'm a Ph.D Student at IIT Delhi.</h3>
-Personal Website: <a href="https://rohan-v-thorat.github.io/" target="_blank">rohan-v-thorat.github.io</a> 
+
 ### 🧐 More About Me:
 - 👀 I’m interested in exploring Science  
 - 🌱 My research domain is 'Control and System Identification'.
