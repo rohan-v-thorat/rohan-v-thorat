@@ -1,7 +1,7 @@
 <!---! This line of code can be used to show profile visits: [](https://komarev.com/ghpvc/?username=rohan-v-thorat&color=green) --->
 
 <p align="center">
-  <img src="./env_agent.gif">
+  <img src="./RL_robot_earth.gif">
 </p>
 
 <h6 align="center">
