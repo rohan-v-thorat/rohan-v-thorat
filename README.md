@@ -21,7 +21,8 @@
       
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rohan-v-thorat&theme=tokyonight)
+![GitHub Metrics](https://metrics.lecoq.io/rohan-v-thorat?base=header,activity,community,repositories)
+
 
 
 
