@@ -21,7 +21,7 @@
       
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![GitHub Metrics](https://metrics.lecoq.io/rohan-v-thorat?template=classic&base.header=0&base.metadata=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=rohan-v-thorat&theme=tokyonight)
 
 
 
