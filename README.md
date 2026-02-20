@@ -21,7 +21,7 @@
       
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![GitHub Metrics](https://metrics.lecoq.io/rohan-v-thorat?base=header,activity,community,repositories)
+![GitHub Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohan-v-thorat&theme=tokyonight)
 
 
 
