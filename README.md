@@ -21,7 +21,8 @@
       
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![GitHub Metrics](https://metrics.lecoq.io/rohan-v-thorat)
+![GitHub Metrics](https://metrics.lecoq.io/rohan-v-thorat?template=classic&base.header=0&base.metadata=0)
+
 
 
 </div>
