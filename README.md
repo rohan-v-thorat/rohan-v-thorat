@@ -21,10 +21,7 @@
       
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-v-thorat&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-v-thorat&layout=compact&theme=tokyonight&cache_seconds=86400)
-
+![GitHub Metrics](https://metrics.lecoq.io/rohan-v-thorat)
 
 
 </div>
